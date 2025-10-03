@@ -25,3 +25,22 @@ The analysis is presented both in **PowerPoint slides** and as an **interactive 
 
 ---
 
+## 📸 Dashboard Preview
+![Dashboard](https://github.com/user-attachments/assets/e018ff22-6b50-4e91-96c6-bb2c37523d95)
+
+
+---
+
+## 🤝 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-zinedineamalia/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:zinedineamalianoor.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/z.amalia_" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
+  </a>
+</p>
+
