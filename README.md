@@ -1,6 +1,5 @@
 # 🛒 Customer Segmentation Dashboard
 
-![Cover](images/ppt_overview.png)
 
 ## 📊 Overview
 This project showcases a **Customer Segmentation Analysis** using the **RFM (Recency, Frequency, Monetary) model**.  
@@ -14,15 +13,6 @@ The analysis is presented both in **PowerPoint slides** and as an **interactive 
 - **Customer Insights**: Who are the loyal customers? Who is at risk?  
 - **Business Value**: Recommendations to improve sales and retention  
 
----
-
-## 📸 Screenshots
-
-### PPT Segmentation Slide
-![Segmentation](images/ppt_overview.png)
-
-### Interactive Dashboard
-![Dashboard](images/dashboard.png)
 
 ---
 
@@ -34,6 +24,4 @@ The analysis is presented both in **PowerPoint slides** and as an **interactive 
 - **Uncategorized**: Customers with incomplete data.  
 
 ---
-
-## 📂 Project Structure
 
