@@ -1,19 +1,39 @@
-# 🎈 Blank app template
+# 🛒 Customer Segmentation Dashboard
 
-A simple Streamlit app template for you to modify!
+![Cover](images/ppt_overview.png)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://blank-app-template.streamlit.app/](https://customer-segmentation-zinedine.streamlit.app/))
+## 📊 Overview
+This project showcases a **Customer Segmentation Analysis** using the **RFM (Recency, Frequency, Monetary) model**.  
+The analysis is presented both in **PowerPoint slides** and as an **interactive dashboard** for better visualization of customer behavior.
 
-### How to run it on your own machine
+---
 
-1. Install the requirements
+## ✨ Highlights
+- **PowerPoint Presentation**: Visual storytelling of customer segmentation  
+- **Dashboard**: Interactive data exploration  
+- **Customer Insights**: Who are the loyal customers? Who is at risk?  
+- **Business Value**: Recommendations to improve sales and retention  
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+---
 
-2. Run the app
+## 📸 Screenshots
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+### PPT Segmentation Slide
+![Segmentation](images/ppt_overview.png)
+
+### Interactive Dashboard
+![Dashboard](images/dashboard.png)
+
+---
+
+## 💡 Key Insights
+- **Champions**: Best customers with high frequency and value.  
+- **Loyal Customers**: Frequent buyers with consistent spending.  
+- **At Risk**: Customers with decreasing activity.  
+- **Potential**: New customers with chance to grow.  
+- **Uncategorized**: Customers with incomplete data.  
+
+---
+
+## 📂 Project Structure
+
